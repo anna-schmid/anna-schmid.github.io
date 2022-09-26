@@ -1,5 +1,5 @@
 ---
-layout: /
+layout: archive
 title: "Work in Progress"
 permalink: /publications/
 author_profile: true
