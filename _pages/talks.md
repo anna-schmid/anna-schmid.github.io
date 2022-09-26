@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Conferences and Presentations
+
+
 * 2022
      *  Scientific Retreat, Department of Economics, University of Bern, Lenk.
      *  *<a href="https://www.lse.ac.uk/geography-and-environment/events/shifting-landscapes/shifting-landscapes">Shifting Landscapes</a>*, London School of Economics and Political Science (LSE).
