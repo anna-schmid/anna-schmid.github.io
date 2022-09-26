@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+
 * Climate Economics: Scientific and Economic Foundations (Master Course), Ralph Winkler
   * Spring 2020 & Fall 2021
 
