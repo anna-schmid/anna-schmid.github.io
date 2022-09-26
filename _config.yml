@@ -5,16 +5,19 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Anna Schmid"
 description              : &description "personal description"
-url                      : 'anna-schmid.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anna-schmid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -29,7 +32,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,7 +60,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : anbanael
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,13 +85,13 @@ analytics:
 author:
   name             : "Anna Schmid"
   avatar           : "ans.jpg"
-  bio              : "PhD Student in Climate Economics at the University of Bern and the Oeschger Centre for Climate Change Research"
+  bio              : "PhD Candidate in Climate Economics"
   location         : "Bern"
-  employer         :
+  employer         : "University of Bern and the Oeschger Centre for Climate Change Research"
   pubmed           : 
   googlescholar    : 
-  email            :  anna.schmid@unibe.ch
-  researchgate     :  https://www.researchgate.net/profile/Anna-Schmid # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "anna.schmid@unibe.ch"
+  researchgate     :  "https://www.researchgate.net/profile/Anna-Schmid" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@anbanael"
+  twitter          : "anbanael"
   vine             :
   weibo            :
   xing             :
