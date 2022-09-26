@@ -2,12 +2,9 @@
 main:
   - title: "Work in Progress"
     url: /publications/
-
- - title: "Teaching"
-    url: /markdown/
   
-#  - title: "Teaching"
-#    url: /teaching/ 
+ - title: "Teaching"
+    url: /teaching/ 
     
   - title: "CV"
     url: /cv/
@@ -20,5 +17,8 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+  
+  # - title: "Guide"
+  #  url: /markdown/
      
  
