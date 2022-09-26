@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Anna Schmid"
   avatar           : "ans.jpg"
-  bio              : "PhD Candidate in Climate Economics"
-  location         : "Bern"
-  employer         : "University of Bern and the Oeschger Centre for Climate Change Research"
+  bio              : "PhD Candidate in Climate Economics at the University of Bern and the Oeschger Centre for Climate Change Research"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :  "anna.schmid@unibe.ch"
@@ -108,7 +108,7 @@ author:
   linkedin         :
   orcid            :
   pinterest        :
-  soundcloud       :
+  soundcloud       : "anbanael"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
