@@ -8,7 +8,7 @@ author_profile: true
 
 
 **2022**
-  *  *<a href="https://www.vwi.unibe.ch/forschung/brown_bag_seminar/index_ger.html"> Brownbag Seminar </a>*, Department of Economics, University of Bern.
+  *  *<a href="https://www.vwi.unibe.ch/forschung/brown_bag_seminar/index_ger.html"> Brownbag Seminar</a>*, Department of Economics, University of Bern.
   *  Scientific Retreat, Department of Economics, University of Bern, Lenk.
   *  *<a href="https://www.lse.ac.uk/geography-and-environment/events/shifting-landscapes/shifting-landscapes">Shifting Landscapes</a>*, London School of Economics and Political Science (LSE), London.
 
