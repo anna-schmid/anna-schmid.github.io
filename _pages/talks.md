@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Conferences, Presentations, Summer Schools"
+title: "Conferences, Presentations, Summer/Winter Schools"
 permalink: /talks/
 author_profile: true
 ---
 
-
+**2023**
+  *  *<a href="[https://www.vwi.unibe.ch/forschung/brown_bag_seminar/index_ger.html](https://www.aes.ac.uk/welcome)"> Agricultural Economics Society Conference 2023</a>*, The University of Warwick, Warwick.
+  *  Scientific Retreat, Department of Economics, University of Bern, Lenk.
+  *  Bern Winter School on Machine Learning (Machine Learning and Deep Neural Networks with TensorFlow), University of Bern, Mürren.
 
 **2022**
   *  *<a href="https://www.vwi.unibe.ch/forschung/brown_bag_seminar/index_ger.html"> Brownbag Seminar</a>*, Department of Economics, University of Bern.
