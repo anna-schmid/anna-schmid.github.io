@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **2023**
-  *  *<a href="[https://www.vwi.unibe.ch/forschung/brown_bag_seminar/index_ger.html](https://www.aes.ac.uk/welcome)"> Agricultural Economics Society Conference 2023</a>*, The University of Warwick, Warwick.
+  *  *<a href="https://www.aes.ac.uk/annual-conference"> Annual Conference of the Agricultural Economics Socienty (AES)</a>*, The University of Warwick, Warwick.
   *  Bern Winter School on Machine Learning (Machine Learning and Deep Neural Networks with TensorFlow), University of Bern, Mürren.
 
 **2022**
