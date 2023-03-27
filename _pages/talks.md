@@ -17,7 +17,7 @@ author_profile: true
 
 **2021**
   * *<a href="https://c2sm.ethz.ch/education/2021-summer-school.html">19th International Swiss Climate Summer School</a>* on Vegetation, Land Surface and Climate Interactions, C2SM ETH Zurich, Ascona.
-  * *<a href="h[ttps://www.socialpolitik.de/de/termin/jahrestagung-2022](http://www.auroe.info/nachwuchs.php?tab=wshop)">Annual Workshop of the Verein für Socialpolitik</a>*, Oldenburg.
+  * Annual Workshop of the Verein für Socialpolitik, Oldenburg.
 
 
 # News
