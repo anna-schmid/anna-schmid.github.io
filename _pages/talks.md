@@ -4,7 +4,7 @@ title: "Conferences, Presentations, Summer/Winter Schools"
 permalink: /talks/
 author_profile: true
 ---
-**2023**
+**2024**
   *  *<a href="https://www.aes.ac.uk/annual-conference"> Annual Conference of the Agricultural Economics Socienty (AES)</a>*, The University of Edinburgh, Edinburgh.
 
 **2023**
