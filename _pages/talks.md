@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 **2024**
+  *  *<a href="https://icae2024.in"> International Conference of Agricultural Economists (ICAE) </a>*, New Delhi, India.
+  *  *<a href="https://www.aaea.org/meetings/2024-aaea-annual-meeting"> Annual Meeting of the Agricultural and Applied Economics Association (AAEA) </a>*, New Orleans LA.
   *  *<a href="https://www.aes.ac.uk/annual-conference"> Annual Conference of the Agricultural Economics Socienty (AES)</a>*, The University of Edinburgh, Edinburgh.
 
 **2023**
