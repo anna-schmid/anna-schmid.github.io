@@ -11,7 +11,7 @@ author_profile: true
 
 **2023**
   *  *<a href="https://www.aaea.org/meetings/2023-aaea-annual-meeting"> Annual Meeting of the Agricultural & Applied Economics Association (AAEA)</a>*, Washington, D.C.
-  *  *<a href="https://www.aes.ac.uk/annual-conference"> Annual Conference of the Agricultural Economics Socienty (AES)</a>*, The University of Warwick, Warwick.
+  *  *<a href="https://www.aes.ac.uk/annual-conference"> Annual Conference of the Agricultural Economics Society (AES)</a>*, The University of Warwick, Warwick.
   *  Bern Winter School on Machine Learning (Machine Learning and Deep Neural Networks with TensorFlow), University of Bern, Mürren.
 
 **2022**
