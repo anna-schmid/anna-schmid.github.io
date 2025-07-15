@@ -12,6 +12,6 @@ I’m currently part of the <a href="https://learning.eitfood.eu/courses/innovat
 
 In 2023/2024, I spent a research stay at Columbia University in New York, supported by Wolfram Schlenker, where I dove deeper into data-driven approaches to environmental challenges.
 
-I’m especially interested in how climate change affects crops and farmers, how we adapt, and how international cooperation can actually work. What really excites me is using data and code to move from research to real-world impact—turning insight into action.
+I’m especially interested in how climate change affects crops and farmers, how we adapt, and how international cooperation can actually work. What really excites me is using data and code to move from research to real-world impact, turning insight into action.
 
 Always open to connecting, just drop me a line.
