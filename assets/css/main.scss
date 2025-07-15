@@ -42,15 +42,41 @@
 
 
 
+/* === Earthy AI Soil Remote Sensing Theme === */
 body {
-  background-color: #f9f9f9;
-  color: #333;
+  background-color: #f6f4f0;
+  color: #2f2f2f;
+  font-family: 'Helvetica Neue', sans-serif;
 }
 
 a {
-  color: #3a6e3a;
+  color: #487d63;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #639e7a;
 }
 
 .navbar, .site-header {
-  background-color: #a87c4e;
+  background-color: #40342e;
+  color: #ffffff;
+  border-bottom: 3px solid #c2764d;
+}
+
+.site-title, .page-title {
+  color: #487d63;
+}
+
+button, .btn, .pagination a {
+  background-color: #c2764d;
+  color: #fff;
+  border-radius: 5px;
+  padding: 6px 12px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover, .btn:hover, .pagination a:hover {
+  background-color: #a45f39;
 }
