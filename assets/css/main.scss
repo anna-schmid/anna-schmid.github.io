@@ -48,3 +48,17 @@ $text-color: #3C3C3C;       // Deep gray
 $link-color: #A76D60;       // Clay
 $accent-color: #CB997E;     // Terra cotta
 $header-background: #A5A58D; // Beige-gray
+
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+a {
+  color: $link-color;
+}
+
+.navbar, .site-header {
+  background-color: $header-background;
+}
