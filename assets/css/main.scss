@@ -133,25 +133,25 @@ section, .archive, .page__content > *:not(:last-child) {
 }
 
 // Improve heading separation
-h1, h2, h3 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  line-height: 1.3;
-}
+// h1, h2, h3 {
+//  margin-top: 2rem;
+//  margin-bottom: 1rem;
+//  line-height: 1.3;
+//}
 
 // Add more breathing room for lists and paragraphs
-p, ul, ol {
-  margin-bottom: 1.2rem;
-  line-height: 1.6;
-}
+//p, ul, ol {
+//  margin-bottom: 1.2rem;
+//  line-height: 1.6;
+//}
 
 // Subtle horizontal divider between major sections
-hr {
-  border: none;
-  height: 1px;
-  background: #d9d9d9;
-  margin: 2rem 0;
-}
+//hr {
+//  border: none;
+//  height: 1px;
+//  background: #d9d9d9;
+//  margin: 2rem 0;
+//}
 
 // Optional: Add spacing above author block/sidebar
 //.author__avatar, .author__content {
