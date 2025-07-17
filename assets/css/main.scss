@@ -44,23 +44,16 @@
 
 
 
+// define colors
 
-// $brand-color: #6B705C;      // Olive
-// $background-color: #FDF6EC; // Soft cream
-// $text-color: #3C3C3C;       // Deep gray
-// $link-color: #A76D60;       // Clay
-// $accent-color: #CB997E;     // Terra cotta
-// $header-background: #A5A58D; // Beige-gray
-
-// Earthy color palette
 $brand-color: #6B705C;      // Olive
 $background-color: #edeee6; // Olive light
-// $$background-color: #d8dcae; // some green
 $text-color: #3C3C3C;       // Deep gray
 $link-color: #6B705C;       // Clay
 $accent-color: #6B705C;     // Terra cotta
 $header-background: #d8dcae; // Olive light
 
+// change color 
 
 body {
   background-color: $background-color;
@@ -75,6 +68,7 @@ a {
   background-color: $header-background;
 }
 
+// change the dropdown menu style
 
 .masthead,
 .greedy-nav {
@@ -88,4 +82,15 @@ a {
 .greedy-nav a:hover {
   color: $accent-color;
 }
+
+// change the footer 
+
+.page__footer {
+  background-image: url("images/land_AI.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white; // adjust for contrast
+}
+
 
