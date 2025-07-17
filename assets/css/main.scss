@@ -89,12 +89,13 @@ a:hover {
   position: relative;
   background-color: $footer-background;
   color: $footer-text;
-  padding: 0.5rem 1rem;
+  padding: 0.3rem 0.8rem; // 0.3rem = super slim vertically
   font-size: 0.9rem;
-  line-height: 1.4;  
+  line-height: 1.4;
   overflow: hidden;
   z-index: 1;
 }
+
 
 .page__footer::before {
   content: "";
