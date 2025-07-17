@@ -15,3 +15,9 @@ In 2023/2024, I spent a research stay at Columbia University in New York, suppor
 I’m especially interested in how climate change affects crops and farmers, how we adapt, and how international cooperation can actually work. What really excites me is using data and code to move from research to real-world impact, turning insight into action.
 
 Always open to connecting, just drop me a line.
+
+### 📄 Download My CV
+
+You can download my full CV here:
+
+[<strong>📥 Download CV (PDF)</strong>](https://anna-schmid.github.io/files/CV_Schmid_short.pdf){:target="_blank" class="btn btn--primary"}
