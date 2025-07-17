@@ -42,22 +42,21 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// define colors
 
-
-// PRIMARY PALETTE
 $brand-color:       #577D4C;  // deep field green
 $background-color:  #F4F1E8;  // soft dusty beige (soil)
 $text-color:        #2D2D2D;  // rich charcoal gray
 $link-color:        #6A9460;  // lively but earthy green
 $accent-color:      #C49D6B;  // clay-harvest brown
 
-// SUPPORTING
 $header-background: #E8E3D1;  // light dust from dry soil
 $footer-background: #4C3C32;  // dark soil tone
 $footer-text:       #EFEFEF;  // soft light for contrast
 $highlight-color:   #A4C294;  // pivot-green highlight
 $border-color:      #D7CBAA;  // faded wheat
 
+// adjust colors 
 
 body {
   background-color: $background-color;
@@ -84,6 +83,9 @@ a:hover {
 .greedy-nav a:hover {
   color: $accent-color;
 }
+
+
+// change footer
 
 .page__footer {
   position: relative;
@@ -113,3 +115,46 @@ a:hover {
   position: relative;
   z-index: 1;
 }
+
+
+
+// --- MAIN LAYOUT IMPROVEMENTS ---
+
+// Widen the central content column
+.page {
+  max-width: 730px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+// Increase spacing between sections
+section, .archive, .page__content > *:not(:last-child) {
+  margin-bottom: 2.5rem;
+}
+
+// Improve heading separation
+h1, h2, h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+// Add more breathing room for lists and paragraphs
+p, ul, ol {
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+}
+
+// Subtle horizontal divider between major sections
+hr {
+  border: none;
+  height: 1px;
+  background: #d9d9d9;
+  margin: 2rem 0;
+}
+
+// Optional: Add spacing above author block/sidebar
+.author__avatar, .author__content {
+  margin-bottom: 1.5rem;
+}
+
