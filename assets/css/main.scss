@@ -121,16 +121,16 @@ a:hover {
 // --- MAIN LAYOUT IMPROVEMENTS ---
 
 // Widen the central content column
-.page {
-  max-width: 730px;
-  margin: 0 auto;
-  padding: 1.5rem;
-}
+//.page {
+//  max-width: 730px;
+//  margin: 0 auto;
+//  padding: 1.5rem;
+//}
 
 // Increase spacing between sections
-//section, .archive, .page__content > *:not(:last-child) {
-//  margin-bottom: 2.5rem;
-//}
+section, .archive, .page__content > *:not(:last-child) {
+  margin-bottom: 2.5rem;
+}
 
 // Improve heading separation
 h1, h2, h3 {
