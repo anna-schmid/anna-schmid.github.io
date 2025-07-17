@@ -16,8 +16,6 @@ I’m especially interested in how climate change affects crops and farmers, how
 
 Always open to connecting, just drop me a line.
 
-### 📄 Download My CV
-
 You can download my full CV here:
 
 [<strong>📥 Download CV (PDF)</strong>](https://anna-schmid.github.io/files/CV_Schmid_short.pdf){:target="_blank" class="btn btn--primary"}
