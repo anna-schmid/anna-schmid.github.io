@@ -158,3 +158,10 @@ hr {
 //  margin-bottom: 1.5rem;
 //}
 
+
+// Reduce gap between profile and main content on homepage
+.page--welcome .page__content {
+  margin-top: 0 !important;
+  padding-top: 0.5rem; // adjust as needed
+}
+
