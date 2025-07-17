@@ -44,18 +44,20 @@
 
 
 
-// define colors
+// PRIMARY PALETTE
+$brand-color:       #577D4C;  // deep field green
+$background-color:  #F4F1E8;  // soft dusty beige (soil)
+$text-color:        #2D2D2D;  // rich charcoal gray
+$link-color:        #6A9460;  // lively but earthy green
+$accent-color:      #C49D6B;  // clay-harvest brown
 
-$brand-color:       #5C7446;
-$background-color:  #F5F4EC;
-$text-color:        #2F2F2F;
-$link-color:        #6C8B5D;
-$accent-color:      #BDA878;
-$header-background: #E8ECD9;
-$footer-text:       #F0F0F0;
+// SUPPORTING
+$header-background: #E8E3D1;  // light dust from dry soil
+$footer-background: #4C3C32;  // dark soil tone
+$footer-text:       #EFEFEF;  // soft light for contrast
+$highlight-color:   #A4C294;  // pivot-green highlight
+$border-color:      #D7CBAA;  // faded wheat
 
-
-// change color 
 
 body {
   background-color: $background-color;
@@ -66,11 +68,9 @@ a {
   color: $link-color;
 }
 
-.masthead {
-  background-color: $header-background;
+a:hover {
+  color: $highlight-color;
 }
-
-// change the dropdown menu style
 
 .masthead,
 .greedy-nav {
@@ -85,20 +85,10 @@ a {
   color: $accent-color;
 }
 
-// change the footer 
-
-// .page__footer {
-//  background-image: url("/images/land_AI.png");
-//  background-size: cover;
-//  background-repeat: no-repeat;
-//  background-position: center;
-//  color: white; // adjust for contrast
-//}
-
-
 .page__footer {
   position: relative;
-  color: #f0f0f0; // Light text for contrast
+  background-color: $footer-background;
+  color: $footer-text;
   padding: 2rem;
   overflow: hidden;
   z-index: 1;
@@ -112,7 +102,7 @@ a {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  opacity: 0.6; // lower value = more see-through
+  opacity: 0.6;
   z-index: 0;
 }
 
@@ -120,4 +110,3 @@ a {
   position: relative;
   z-index: 1;
 }
-
