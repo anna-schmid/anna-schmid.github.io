@@ -53,7 +53,7 @@
 // Earthy color palette
 $brand-color: #6B705C;      // Olive
 // $background-color: #b8bc86; // Olive light
-$background-color: rgba(234, 215, 133, 0.5);
+$background-color: #d8dcae; // some green
 $text-color: #3C3C3C;       // Deep gray
 $link-color: #6B705C;       // Clay
 $accent-color: #6B705C;     // Terra cotta
@@ -69,6 +69,6 @@ a {
   color: $link-color;
 }
 
-.navbar, .site-header {
+.masthead {
   background-color: $header-background;
 }
