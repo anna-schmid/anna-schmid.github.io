@@ -95,23 +95,24 @@ a {
 //  color: white; // adjust for contrast
 //}
 
+
 .page__footer {
   position: relative;
-  color: $footer-text;
+  color: #f0f0f0; // Light text for contrast
   padding: 2rem;
-  z-index: 1;
   overflow: hidden;
+  z-index: 1;
 }
 
 .page__footer::before {
   content: "";
   position: absolute;
-  inset: 0;
+  top: 0; left: 0; right: 0; bottom: 0;
   background-image: url("/images/land_AI.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  opacity: 0.3; // adjust transparency here
+  opacity: 0.3; // lower value = more see-through
   z-index: 0;
 }
 
@@ -119,5 +120,4 @@ a {
   position: relative;
   z-index: 1;
 }
-
 
