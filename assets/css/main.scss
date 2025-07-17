@@ -89,7 +89,9 @@ a:hover {
   position: relative;
   background-color: $footer-background;
   color: $footer-text;
-  padding: 2rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  line-height: 1.4;  
   overflow: hidden;
   z-index: 1;
 }
