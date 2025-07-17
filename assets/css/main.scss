@@ -74,3 +74,18 @@ a {
 .masthead {
   background-color: $header-background;
 }
+
+
+.masthead,
+.greedy-nav {
+  background-color: $header-background;
+}
+
+.greedy-nav a {
+  color: $text-color;
+}
+
+.greedy-nav a:hover {
+  color: $accent-color;
+}
+
