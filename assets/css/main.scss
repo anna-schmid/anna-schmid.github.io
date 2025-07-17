@@ -46,14 +46,6 @@
 
 // define colors
 
-//$brand-color: #6B705C;      // Olive
-//$background-color: #edeee6; // Olive light
-//$text-color: #3C3C3C;       // Deep gray
-//$link-color: #6B705C;       // Clay
-//$accent-color: #6B705C;     // Terra cotta
-//$header-background: #d8dcae; // Olive light
-
-
 $brand-color:       #5C7446;
 $background-color:  #F5F4EC;
 $text-color:        #2F2F2F;
@@ -95,12 +87,37 @@ a {
 
 // change the footer 
 
+// .page__footer {
+//  background-image: url("/images/land_AI.png");
+//  background-size: cover;
+//  background-repeat: no-repeat;
+//  background-position: center;
+//  color: white; // adjust for contrast
+//}
+
 .page__footer {
+  position: relative;
+  color: $footer-text;
+  padding: 2rem;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.page__footer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
   background-image: url("/images/land_AI.png");
   background-size: cover;
-  background-repeat: no-repeat;
   background-position: center;
-  color: white; // adjust for contrast
+  background-repeat: no-repeat;
+  opacity: 0.3; // adjust transparency here
+  z-index: 0;
+}
+
+.page__footer > * {
+  position: relative;
+  z-index: 1;
 }
 
 
