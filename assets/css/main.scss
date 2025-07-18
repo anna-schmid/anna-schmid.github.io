@@ -121,10 +121,10 @@ a:hover {
 
 a {
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
-a:hover,
-a:focus {
-  text-decoration: underline; // Optional: show only on hover
+a:hover {
+  color: $accent-color; // or a soft green
 }
 
