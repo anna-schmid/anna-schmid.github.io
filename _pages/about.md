@@ -20,4 +20,4 @@ Always open to connecting, just drop me a line.
 
 You can download my full CV here:
 
-[<strong>📥 Download CV (PDF)</strong>](https://anna-schmid.github.io/files/CV_Schmid_short.pdf)
+[<strong>Download CV (PDF)</strong>](https://anna-schmid.github.io/files/CV_Schmid_short.pdf)
