@@ -30,7 +30,6 @@ climate mitigation policies compared to believers but show a greater willingness
 the complexity of agricultural adaptation and the need for tailored solutions to enhance resilience
 against climatic changes.
     <p>
-  </div>
 
   <div class="project-card">
     <h3>Strategic Delegation in a Standard Public Goods Game <small>(with <a href="http://www.ralph-winkler.de">Ralph Winkler</a> and <a href="https://www.unibo.it/sitoweb/alessandro.tavoni2/en">Alessandro Tavoni</a>)</small></h3>
