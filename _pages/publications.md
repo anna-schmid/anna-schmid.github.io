@@ -5,6 +5,41 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<div class="project-cards">
+
+  <div class="project-card">
+    <h3>Yield Risks for Perennial Crops under Changing Climate Conditions</h3>
+    <blockquote>
+      <p>
+        Agriculture is among the sectors most vulnerable to climate change, with perennial crops like apple orchards particularly at risk...
+      </p>
+    </blockquote>
+  </div>
+
+  <div class="project-card">
+    <h3>To Adapt or Not to Adapt: How Swiss Fruit Farmers Respond to Climate Change</h3>
+    <blockquote>
+      <p>
+        Climate change presents a significant threat to global agricultural livelihoods, with the perennial crop sector facing unique challenges...
+      </p>
+    </blockquote>
+  </div>
+
+  <div class="project-card">
+    <h3>Strategic Delegation in a Standard Public Goods Game <small>(with <a href="http://www.ralph-winkler.de">Ralph Winkler</a> and <a href="https://www.unibo.it/sitoweb/alessandro.tavoni2/en">Alessandro Tavoni</a>)</small></h3>
+    <blockquote>
+      <p>
+        We provide the first experimental evidence of strategic delegation in the context of public good provision. In a two-stage game, we investigate...
+      </p>
+    </blockquote>
+  </div>
+
+</div>
+
+
+
+
 ### Yield Risks for Perennial Crops under Changing Climate Conditions
 
 <blockquote>
