@@ -137,3 +137,17 @@ a:hover,
 }
 
 
+// Soften the header font sizes slightly
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+
+.page__content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+
