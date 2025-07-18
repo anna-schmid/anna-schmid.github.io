@@ -29,7 +29,7 @@ and acknowledge the rise in global average temperatures. Climate skeptics demons
 climate mitigation policies compared to believers but show a greater willingness to adapt. The study underscores
 the complexity of agricultural adaptation and the need for tailored solutions to enhance resilience
 against climatic changes.
-    <p>    
+    </p>    
   </div>
 
 
