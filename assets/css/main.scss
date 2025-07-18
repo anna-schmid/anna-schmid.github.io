@@ -119,12 +119,20 @@ a:hover {
 
 // getting rid of underline for links
 
-a {
-  text-decoration: none;
+a,
+.page__content a,
+.post a,
+li a,
+nav a,
+.footer a {
+  text-decoration: none !important;
   transition: color 0.2s ease;
 }
 
-a:hover {
-  color: $accent-color; // or a soft green
+a:hover,
+.page__content a:hover,
+.post a:hover {
+  color: $accent-color; // or your moss green
+  text-decoration: none !important;
 }
 
