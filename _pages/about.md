@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently part of the <a href="https://learning.eitfood.eu/courses/innovator-fellowship">EIT Food Innovator Fellowship</a> and working as a DeepTech Associate (Geospatial & AI) with <a href="https://cinsoil.eu">CinSOIL</a>. My background is in climate and agricultural economics, which I explored in depth during my PhD at the University of Bern’s <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.oeschger.unibe.ch">Oeschger Centre for Climate Change Research (OCCR)</a>.
+I’m currently part of the <a href="https://learning.eitfood.eu/courses/innovator-fellowship" style="text-decoration: none;"> EIT Food Innovator Fellowship</a> and working as a DeepTech Associate (Geospatial & AI) with <a href="https://cinsoil.eu">CinSOIL</a>. My background is in climate and agricultural economics, which I explored in depth during my PhD at the University of Bern’s <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.oeschger.unibe.ch">Oeschger Centre for Climate Change Research (OCCR)</a>.
 
 In 2023/2024, I spent a research stay at Columbia University in New York, supported by Wolfram Schlenker, where I dove deeper into data-driven approaches to environmental challenges.
 
