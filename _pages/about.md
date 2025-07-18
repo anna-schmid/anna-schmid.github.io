@@ -16,15 +16,8 @@ I’m especially interested in how climate change affects crops and farmers, how
 
 Always open to connecting, just drop me a line.
 
+
+
 You can download my full CV here:
 
-[<strong>📥 Download CV (PDF)</strong>](https://anna-schmid.github.io/files/CV_Schmid_short.pdf){:target="_blank" class="btn btn--primary"}
-
-
-<div style="border-left: 4px solid #5C7446; padding-left: 1rem; margin: 2rem auto; max-width: 500px;">
-  <h3 style="margin-bottom: 0.2rem;">📌 Latest CV</h3>
-  <p style="margin: 0.2rem 0;">Updated for 2025 with current research & collaborations</p>
-  <a href="/files/CV_Schmid_short.pdf" target="_blank" class="btn btn--primary btn--small">
-    📥 Download My CV
-  </a>
-</div>
+[<strong>📥 Download CV (PDF)</strong>](https://anna-schmid.github.io/files/CV_Schmid_short.pdf)
