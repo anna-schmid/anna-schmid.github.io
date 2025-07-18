@@ -10,16 +10,14 @@ author_profile: true
 
   <div class="project-card">
     <h3>Yield Risks for Perennial Crops under Changing Climate Conditions</h3>
-    <blockquote>
       <p>
         Agriculture is among the sectors most vulnerable to climate change, with perennial crops like apple orchards particularly at risk due to their long growth cycles and limited adaptive capacity. This study examines future yield risks using a unique orchard-level dataset and the Phenoflex model to predict phenological stages. We develop phenology-specific frost indicators and evaluate temperature effects while calibrating different chilling models. Our findings indicate a trend toward earlier flowering stages, higher average temperatures, fewer total spring frost days but more frost days dependent on specific phenological phases, and an increase in extreme heat events. Frost and extreme heat events show significant negative impacts on productivity, with frost effects during full bloom having the greatest effect. Overall, we find yield increases rather than losses over time, driven by warmer temperatures and reduced frost damage. However, uncertainties in climate projections and model assumptions limit the precision of these yield predictions, especially over long timescales. Under future climate scenarios, yield gains vary based on emissions pathways: the high-emission RCP8.5 scenario shows the largest yield increases, likely due to fewer frost days and a warmer growing season, while the lower-emission RCP2.6 scenario is associated with smaller yield gains.
       </p>
-    </blockquote>
   </div>
 
   <div class="project-card">
     <h3>To Adapt or Not to Adapt: How Swiss Fruit Farmers Respond to Climate Change</h3>
-    <blockquote>
+    <p>
         Climate change presents a significant threat to global agricultural livelihoods, with the perennial crop sector
 facing unique challenges due to its inherent path dependencies. Using survey data from the year 2022, this
 paper examines the effects of severe droughts and spring frost over the past decade, adaptation strategies,
@@ -32,7 +30,7 @@ and acknowledge the rise in global average temperatures. Climate skeptics demons
 climate mitigation policies compared to believers but show a greater willingness to adapt. The study underscores
 the complexity of agricultural adaptation and the need for tailored solutions to enhance resilience
 against climatic changes.
-    </blockquote>
+    <p>
   </div>
 
   <div class="project-card">
