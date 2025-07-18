@@ -117,3 +117,14 @@ a:hover {
 }
 
 
+// getting rid of underline for links
+
+a {
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline; // Optional: show only on hover
+}
+
