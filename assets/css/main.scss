@@ -179,14 +179,15 @@ body {
 .project-cards {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 2rem;         // spacing between cards
   margin-top: 2rem;
 }
 
 .project-card {
   background-color: #f8f7f2;
   border-left: 4px solid $accent-color;
-  padding: 1.5rem;
+  padding: 1.5rem;        // space inside the card
+  margin-bottom: 0;       // no need since gap handles spacing
   border-radius: 0.75rem;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
