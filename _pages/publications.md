@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+<div class="project-cards">
 
   <div class="project-card">
     <h3>Yield Risks for Perennial Crops under Changing Climate Conditions</h3>
@@ -51,4 +52,6 @@ the agents’ valuation of the public good. Our findings suggest that the “rac
 delegation in public good provision may be less severe than predicted by economic theory.
       </p>
   </div>
+
+</div>
 
