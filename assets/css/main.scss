@@ -44,19 +44,18 @@
 
 // define colors
 
+$brand-color:       #165B33;  // deep forest green
+$background-color:  #FAFAF5;  // soft parchment white
+$text-color:        #1C1C1C;  // nearly black for contrast
+$link-color:        #3CB043;  // vibrant moss green
+$accent-color:      #E76F51;  // bold terracotta orange
 
-$brand-color:       #4C8A3E;  // stronger field green
-$background-color:  #F8F6F0;  // lighter, warmer base
-$text-color:        #1E1E1E;  // deep charcoal
-$link-color:        #4BA848;  // vibrant leaf green
-$accent-color:      #D1864C;  // richer clay/harvest orange
+$header-background: #0B3D2E;  // deep green header/nav
+$footer-background: #0B3D2E;  // match header for bookend feel
+$footer-text:       #FFFFFF;  // pure white
 
-$header-background: #EFE9D9;  // warm light beige
-$footer-background: #3B2A20;  // deep soil brown
-$footer-text:       #FFFFFF;  // pure white for contrast
-$highlight-color:   #7AC74F;  // bright pivot green
-$border-color:      #E0D4B8;  // soft wheat
-
+$highlight-color:   #FFD166;  // golden wheat sunshine
+$border-color:      #E0E0D1;  // soft sand
 
 
 // adjust colors 
