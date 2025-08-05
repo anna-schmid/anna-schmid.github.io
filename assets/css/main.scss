@@ -81,15 +81,14 @@ a:hover {
 }
 
 .greedy-nav a {
-  color:#FAFAF5;
+  color: #FAFAF5;  // text color same as background
+  text-decoration: none; // removes underline
 }
 
-//.greedy-nav a:hover {
-//  color: $highlight-color; // your gold wheat hover color
-//}
-
-.greedy-nav a:hover {
-  color: $accent-color; // your gold wheat hover color
+.greedy-nav a:hover,
+.greedy-nav a:focus {
+  color: $accent-color; // terracotta on hover
+  text-decoration: none;   // keep underline gone
 }
 
 // change footer (include image and adjust opacity)
