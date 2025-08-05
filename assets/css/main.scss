@@ -81,15 +81,23 @@ a:hover {
 }
 
 .greedy-nav a {
-  color: #FAFAF5;  // text color same as background
-  text-decoration: none; // removes underline
+  color: #FAFAF5;
+  text-decoration: none !important;
 }
 
 .greedy-nav a:hover,
 .greedy-nav a:focus {
-  color: $accent-color; // terracotta on hover
-  text-decoration: none;   // keep underline gone
+  color: $accent-color;
+  text-decoration: none !important;
 }
+
+/* Kill the pseudo-element underline Minimal Mistakes adds */
+.greedy-nav a::before,
+.greedy-nav a::after {
+  display: none !important;
+  content: none !important;
+}
+
 
 // change footer (include image and adjust opacity)
 
