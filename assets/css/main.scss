@@ -223,3 +223,12 @@ body {
 }
 
 
+// change avatar circle
+
+.author__avatar img {
+  border-radius: 50%;          // keeps it circular
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
