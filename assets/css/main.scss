@@ -81,12 +81,13 @@ a:hover {
 }
 
 .greedy-nav a {
-  color: $text-color;
+  color:#FFFFFF;
 }
 
 .greedy-nav a:hover {
-  color: $accent-color;
+  color: $highlight-color; // your gold wheat hover color
 }
+
 
 
 // change footer (include image and adjust opacity)
