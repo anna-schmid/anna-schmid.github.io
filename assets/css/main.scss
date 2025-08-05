@@ -77,6 +77,8 @@ a:hover {
 .masthead,
 .greedy-nav {
   background-color: $header-background;
+    background: linear-gradient(90deg, $header-background 0%, lighten($header-background, 8%) 100%);
+
 }
 
 .greedy-nav a {
