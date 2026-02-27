@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+## Hi!
 
+Welcome to my page, and thank you for visiting. I am Anna, a climate economist and agricultural data scientist working at the intersection of environmental uncertainty and real-world decisions. I’m especially fascinated by where climate risk meets markets, geopolitics, and human behavior.
 
-Welcome to my page. My name is Anna and I’m currently part of the <a href="https://learning.eitfood.eu/courses/innovator-fellowship" style="text-decoration: none;"> EIT Food Innovator Fellowship</a> and working as a Climate and Agricultural Data Scientist with <a href="https://cinsoil.eu">CinSOIL</a>. My background is in climate and agricultural economics, which I explored in depth during my PhD at the University of Bern’s <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.oeschger.unibe.ch">Oeschger Centre for Climate Change Research (OCCR)</a>.
+I did my PhD in Climate and Agricultural Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">University of Bern</a> and the <a href="https://www.oeschger.unibe.ch">Oeschger Centre for Climate Change Research (OCCR)</a>, including a research stay at <a href="https://www.sipa.columbia.edu">Columbia University</a>. My research explored how climate change reshapes agricultural systems through extreme events, nonlinear dynamics, and long-term production risk. At the interface of climate science and economics, I linked weather variability, phenology, and yield data to understand how environmental shocks translate into economic vulnerability and adaptation.
 
-In 2023/2024, I spent a research stay at Columbia University in New York, supported by Wolfram Schlenker, where I dove deeper into data-driven approaches to environmental challenges.
+More recently, I’ve worked as a Climate & Agricultural Data Scientist at <a href="https://cinsoil.eu">CinSOIL</a> and as part of the <a href="https://learning.eitfood.eu/courses/innovator-fellowship" style="text-decoration: none;"> EIT Food Innovator Fellowship</a>, integrating geospatial data, soil science, and modelling to better understand agricultural systems under climate stress. A core motivation for me is translating research into action, turning structured analysis into decisions that actually move things forward.
 
-I’m especially interested in how climate change affects crops and farmers, how we adapt, and how international cooperation can actually work. What really excites me is using data and code to move from research to real-world impact, turning insight into action.
+I care about scientific rigor, clean code (still learning 😉), intellectual flexibility when new evidence challenges old assumptions, and empathy in how we work together.
 
-Always open to connecting, just drop me a line.
+Models shouldn’t just sit in papers. They should influence decisions, in policy, finance, and risk management.
 
-
+If you’re working at the edge of climate risk, agriculture, or uncertainty, I’d love to connect.
 
 You can download my short CV here:
 
