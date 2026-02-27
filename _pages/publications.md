@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work in Progress"
+title: "PhD Projects"
 permalink: /publications/
 author_profile: true
 ---
