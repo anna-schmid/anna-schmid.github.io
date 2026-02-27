@@ -26,6 +26,6 @@ author_profile: true
 
 # News
 
-* <a href="https://portal-cdn.scnat.ch/asset/bf60e34f-05b9-59c8-91fc-b3c0e537ead4/Flash_No71_Winter2019_v2_26-27_GCOS.pdf?b=d0f3f44a-92f7-5e29-b1c5-db801cd835d4&v=d82b7a58-fedd-5f86-9eb3-e04950ed595d_0&s=Yk2Lbfu3285DOErWcJoJNlFZlfm4OXGSGcR7UCKC7HTnQlfHO8QLAxfSwCggzLlFgkJ3R29Cud5D_rosQQzPMkD-BcqtAMS3249X0VS5803D6GSmz7neXLlh1SQx3T_5tW3wULzqmXMlhcYxiLaZ9kpnmstTA591Xro4yANyrY4">«GCOS Schweiz stellt vor – Die Nationale Bodenbeobachtung»</a>*, ProClim Flash, 2019.
-* <a href="https://www.tagesanzeiger.ch/werum-waas-haesch-wie-migranten-schwiizertueuetsch-lernen-705426279405
+* *<a href="https://portal-cdn.scnat.ch/asset/bf60e34f-05b9-59c8-91fc-b3c0e537ead4/Flash_No71_Winter2019_v2_26-27_GCOS.pdf?b=d0f3f44a-92f7-5e29-b1c5-db801cd835d4&v=d82b7a58-fedd-5f86-9eb3-e04950ed595d_0&s=Yk2Lbfu3285DOErWcJoJNlFZlfm4OXGSGcR7UCKC7HTnQlfHO8QLAxfSwCggzLlFgkJ3R29Cud5D_rosQQzPMkD-BcqtAMS3249X0VS5803D6GSmz7neXLlh1SQx3T_5tW3wULzqmXMlhcYxiLaZ9kpnmstTA591Xro4yANyrY4">«GCOS Schweiz stellt vor – Die Nationale Bodenbeobachtung»</a>*, ProClim Flash, 2019.
+* *<a href="https://www.tagesanzeiger.ch/werum-waas-haesch-wie-migranten-schwiizertueuetsch-lernen-705426279405
 ">«Werum? Waas häsch?»</a>*, Tages Anzeiger, 2018.
