@@ -12,11 +12,13 @@ Welcome to my page, and thank you for visiting. I am Anna, a climate economist a
 
 I did my PhD in Climate and Agricultural Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">University of Bern</a> and the <a href="https://www.oeschger.unibe.ch">Oeschger Centre for Climate Change Research (OCCR)</a>, including a research stay at <a href="https://www.sipa.columbia.edu">Columbia University</a>. My research explored how climate change reshapes agricultural systems through extreme events, nonlinear dynamics, and long-term production risk. At the interface of climate science and economics, I linked weather variability, phenology, and yield data to understand how environmental shocks translate into economic vulnerability and adaptation.
 
-More recently, I’ve worked as a Climate & Agricultural Data Scientist at <a href="https://cinsoil.eu">CinSOIL</a> and as part of the <a href="https://learning.eitfood.eu/courses/innovator-fellowship" style="text-decoration: none;"> EIT Food Innovator Fellowship</a>, integrating geospatial data, soil science, and modelling to better understand agricultural systems under climate stress. A core motivation for me is translating research into action, turning structured analysis into decisions that actually move things forward.
+I've since worked as a Climate & Agricultural Data Scientist at <a href="https://cinsoil.eu">CinSOIL</a> and as part of the <a href="https://learning.eitfood.eu/courses/innovator-fellowship" style="text-decoration: none;"> EIT Food Innovator Fellowship</a>, integrating geospatial data, soil science, and modeling to better understand agricultural systems under climate stress. A core motivation for me is translating research into action, turning structured analysis into decisions that actually move things forward.
+
+Currently, I'm a Research Associate at <a href="https://www.zhaw.ch/en/university">ZHAW Zurich University of Applied Sciences</a>, contributing to <a href="https://www.biodiversa.eu/2026/04/03/actsustainably/">ACTSustainably</a>, a project funded by Biodiversa+ on the sustainable governance of Eurasian grasslands. My work spans stakeholder surveys on values and informal institutions, field research in Austria and Kazakhstan, quantitative land-use and climate impact analysis, and experimental economics to test cooperative rules for grassland management.
 
 I care about scientific rigor, clean code (still learning), intellectual flexibility when new evidence challenges old assumptions, and empathy in how we work together.
 
-Models shouldn’t just sit in papers. They should influence decisions, in policy, finance, and risk management.
+Models shouldn’t just sit in papers. They should influence decisions in policy, finance, and risk management.
 
 If you’re working at the edge of climate risk, agriculture, or uncertainty, I’d love to connect.
 
