@@ -16,7 +16,7 @@ author_profile: true
       <ul>
         <li>Land-use and climate: combining satellite-based reconstructions with econometric and scenario modeling to understand how climate and land use have shaped, and will keep shaping, grassland landscapes.</li>
         <li>Values and governance: a cross-country survey looking at how people's values and beliefs about nature relate to their expectations of environmental policy and governance.</li>
-        <li>Cooperation, games, and commons: an experimental approach to grassland governance, using behavioral economics and game theory to study how rules around shared resources shape cooperation — and where they break down.</li>
+        <li>Cooperation, games, and commons: an experimental approach to grassland governance, using behavioral economics and game theory to study how rules around shared resources shape cooperation.</li>
       </ul>
   </div>
 
