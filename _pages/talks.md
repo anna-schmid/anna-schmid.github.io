@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Conferences, Presentations, Summer/Winter Schools"
+title: "Meet me there!"
 permalink: /talks/
 author_profile: true
 ---
+**2026**
+  *  *<a href="https://worldbiodiversityforum.org"> World Biodiversity Forum (WBF)</a>*, Davos, Switzerland.
+
 **2024**
   *  *<a href="https://icae2024.in"> International Conference of Agricultural Economists (ICAE)</a>*, New Delhi, India.
   *  *<a href="https://www.aaea.org/meetings/2024-aaea-annual-meeting"> Annual Meeting of the Agricultural and Applied Economics Association (AAEA)</a>*, New Orleans LA.
