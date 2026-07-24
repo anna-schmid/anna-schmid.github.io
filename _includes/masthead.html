@@ -46,4 +46,19 @@
           <line x1="15" y1="9" x2="9.4" y2="9.6"/>
           <line x1="15" y1="9" x2="10.6" y2="5.8"/>
         </g>
-        <circle cx="15" cy="9" r="2" stroke-width="1.4" transform="rotate(110 15 9)"/>
+        <circle cx="15" cy="9" r="2" stroke-width="1.4" transform="rotate(110 15 9)"/>      </svg>
+    </button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var btn = document.getElementById('theme-toggle');
+    btn.addEventListener('click', function () {
+      var current = document.documentElement.getAttribute('data-theme');
+      var next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    });
+  });
+</script>
