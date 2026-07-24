@@ -267,3 +267,11 @@ body {
 .theme-toggle:focus {
   outline: none;
 }
+
+// remove borders and shadows for dark mode
+[data-theme="dark"] .masthead,
+[data-theme="dark"] .greedy-nav,
+[data-theme="dark"] .page__footer {
+  border: none !important;
+  box-shadow: none !important;
+}
