@@ -1,31 +1,41 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# anna-schmid.github.io
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+My academic site, built on the academicpages template (a fork of the Minimal Mistakes Jekyll theme). Live at https://anna-schmid.github.io. Thanks for visiting!
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Pages
 
-# Instructions
+Three real pages.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+- `_pages/about.md` — home page, permalink `/`
+- `_pages/research.md` — "Research" nav link, permalink `/research/`. Hand-written project cards.
+- `_pages/talks.md` — "Where to find me" nav link, permalink `/talks/`. Hand-written, year-by-year list.
+- `_pages/404.md` — GitHub's error page. Not in the nav, but needed.
+- `_pages/markdown.md` — leftover theme cheat-sheet, kept for reference. Not linked anywhere.
 
-See more info at https://academicpages.github.io/
+Nav links live in `_data/navigation.yml`. Add or remove links there.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Layout & styling
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+All styling is in this file: `assets/css/main.scss`, below the `@import` lines. That's where:
 
-# Changelog -- bugfixes and enhancements
+- Brand colors are set (`$brand-color`, `$background-color`, etc.)
+- The font is set (Inter)
+- The footer background image lives (`.page__footer::before`, currently `land_AI_2.png`)
+- The `.project-card` styling for the Research page lives
+- The avatar circle border is removed
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+**To change the footer photo:** swap the file in `images/`, then update the filename in `.page__footer::before` in `main.scss`.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+**To change the profile photo:** update `avatar` under `author:` in `_config.yml` (currently `2025_git.png`).
+
+**To change the bio photo:** edit `_data/authors.yml`.
+
+## Config
+
+`_config.yml` holds the site title, description, author bio, social links, and Jekyll build settings. Trimmed to what's actually used, collections, or social fields. A pre-cleanup copy is saved at `_config.yml.backup` if you ever want to see what used to be there.
+
+## Adding content
+
+- **New page:** add a `.md` or `.html` file to `_pages/`, give it a `permalink`, then add it to `_data/navigation.yml` to put it in the nav.
+- **New research project:** add a new `.project-card` block inside `_pages/research.md`.
+- **New talk:** add a bullet under the right year in `_pages/talks.md`.
